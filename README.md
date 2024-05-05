@@ -1,6 +1,6 @@
 # Investigating Netflix Movies
 
-![Netflix Logo](netflix.logo.png)
+![Netflix Logo](netflix_logo.png)
 
 ## Overview
 This project explores the trends in the duration of movies available on Netflix, aiming to determine whether there's a discernible pattern of movie lengths changing over time. Utilizing a dataset containing information about various Netflix shows, including their release year and duration, we investigate the hypothesis that movie durations are decreasing.
